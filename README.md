@@ -8,8 +8,6 @@ This project involves creating an Active Directory and network administration en
 ###
 This project demonstrates critical network administration tasks and automation techniques, providing valuable hands-on experience in managing Active Directory and Windows networking environments.
 
-
-
 <h2>Languages and Utilities Used</h2>
 
 - <b>PowerShell</b> 
@@ -20,6 +18,13 @@ This project demonstrates critical network administration tasks and automation t
 
 - <b>Windows 10 (22H2)</b> (Used for CLIENT1 VM)
 - <b>Windows Server 2019</b> (Used for Domain Controller VM)
+
+<h2>Network Environment Overview</h2>
+<p align="center">
+<br/>
+<img src="https://i.imgur.com/fwmNQBE.jpeg" height="80%" width="80%" alt="Active Directory Administration Steps"/>
+ <br />
+</p>
 
 <h2>Screenshots of Key Stages:</h2>
 
